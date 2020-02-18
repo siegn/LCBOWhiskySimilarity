@@ -1,4 +1,4 @@
-![Whisky Barrels]('https://raw.githubusercontent.com/siegn/LCBOWhiskySimilarity/master/nsiegel/1 - Data Gathering and Analysis/images/woodford_small.png')
+![Whisky Barrels](https://raw.githubusercontent.com/siegn/LCBOWhiskySimilarity/master/1%20-%20Data%20Gathering%20and%20Analysis/images/woodford_small.png)
 # LCBO Whisky Similarity Analysis
 **Exploratory Data Analysis**
 
@@ -63,8 +63,8 @@ Here are instructions to get you set up and running quickly on a GNU/Linux syste
 
 ### Clone this Repository
 ```bash
-git clone https://github.com/siegn/CSDA-1050F18S1.git
-cd CSDA-1050F18S1
+git clone https://github.com/siegn/LCBOWhiskySimilarity.git
+cd LCBOWhiskySimilarity
 ```
 
 ### Setup Virtualenv
@@ -215,26 +215,26 @@ Some of the analysis we do here depends on the Whisky styles provided, but there
 #### Reviews per Whisky
 It's important to get an idea of how many reviews we have per Whisky:
 
-![Reviews Per Whisky](https://raw.githubusercontent.com/siegn/CSDA-1050F18S1/master/nsiegel/sprint_1/images/Histogram%20of%20Reviews%20per%20Whisky.png)
+![Reviews Per Whisky](https://raw.githubusercontent.com/siegn/LCBOWhiskySimilarity/master/1%20-%20Data%20Gathering%20and%20Analysis/images/Histogram%20of%20Reviews%20per%20Whisky.png)
 
 And to look at the number of reviews per style:
-![Reviews Per Style](https://raw.githubusercontent.com/siegn/CSDA-1050F18S1/master/nsiegel/sprint_1/images/Reviews%20by%20Style.png)
+![Reviews Per Style](https://raw.githubusercontent.com/siegn/LCBOWhiskySimilarity/master/1%20-%20Data%20Gathering%20and%20Analysis/images/Reviews%20by%20Style.png)
 
 #### Reviews per User
 Knowing how many reviews we have per user is very important because it helps us decide if we will use users to recommend whiskies or not. We want to have a significant number of reviews per user for this to work.
 
-![Reviews Per User](https://raw.githubusercontent.com/siegn/CSDA-1050F18S1/master/nsiegel/sprint_1/images/Histogram%20of%20Reviews%20per%20User.png)
+![Reviews Per User](https://raw.githubusercontent.com/siegn/LCBOWhiskySimilarity/master/1%20-%20Data%20Gathering%20and%20Analysis/images/Histogram%20of%20Reviews%20per%20User.png)
 
 There are many users with very few reviews! In fact, 73% of users have less than 5 reviews. This means a user based recommendation system will be very flawed. Due to this I will instead focus of looking at flavour profile similarity.
 
 #### Reviews by Rating
 In order to see if our rating is useable, let's take a look at the spread:
-![Reviews by Rating](https://raw.githubusercontent.com/siegn/CSDA-1050F18S1/master/nsiegel/sprint_1/images/Histogram%20of%20Reviews%20per%20Rating.png)
+![Reviews by Rating](https://raw.githubusercontent.com/siegn/LCBOWhiskySimilarity/master/1%20-%20Data%20Gathering%20and%20Analysis/images/Histogram%20of%20Reviews%20per%20Rating.png)
 These reviews are heavily leaning towards the right. To use these we will want to normalize them first.
 
 #### Top Rated Whiskies
 Out of curiosity let's check the top rated whiskies:
-![Top Rated Whiskies](https://raw.githubusercontent.com/siegn/CSDA-1050F18S1/master/nsiegel/sprint_1/images/Top%20Rated%20Whiskies.png)
+![Top Rated Whiskies](https://raw.githubusercontent.com/siegn/LCBOWhiskySimilarity/master/1%20-%20Data%20Gathering%20and%20Analysis/images/Top%20Rated%20Whiskies.png)
 
 ## Conclusions
 Based on this analysis there are some clear takeaways:
