@@ -20,7 +20,7 @@ kiwisolver==1.1.0
 Mako==1.0.14
 MarkupSafe==1.1.1
 matplotlib==3.1.1
-nltk==3.4.4
+nltk==3.4.5
 numpy==1.17.0
 oauthlib==3.0.2
 pamela==1.0.0
