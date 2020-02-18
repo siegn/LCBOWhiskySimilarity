@@ -1,4 +1,4 @@
-![Whisky Barrels](https://raw.githubusercontent.com/siegn/CSDA-1050F18S1/master/nsiegel/sprint_1/images/woodford_small.png)
+![Whisky Barrels](https://raw.githubusercontent.com/siegn/LCBOWhiskySimilarity/master/1%20-%20Data%20Gathering%20and%20Analysis/images/woodford_small.png)
 # LCBO Whisky Similarity Analysis
 **Overview**  
 *By Nelson Siegel*
@@ -6,9 +6,9 @@
   * [App](#app)
   * [Introduction](#introduction)
   * [Repository Structure](#repository-structure)
-    + [Sprint 1: Data Gathering and Analysis](https://github.com/siegn/CSDA-1050F18S1/tree/master/nsiegel#sprint-1-data-gathering-and-analysis)
-    + [Sprint 2: Modelling](https://github.com/siegn/CSDA-1050F18S1/tree/master/nsiegel#sprint-2-modelling)
-    + [Sprint 3: App](https://github.com/siegn/CSDA-1050F18S1/tree/master/nsiegel#sprint-3-app)
+    + [1: Data Gathering and Analysis](https://github.com/siegn/CSDA-1050F18S1/tree/master/nsiegel#sprint-1-data-gathering-and-analysis)
+    + [2: Modelling](https://github.com/siegn/CSDA-1050F18S1/tree/master/nsiegel#sprint-2-modelling)
+    + [3: App](https://github.com/siegn/CSDA-1050F18S1/tree/master/nsiegel#sprint-3-app)
   * [Software Requirements](#software-requirements)
     + [Clone this Repository](#clone-this-repository)
     + [Setup Virtualenv](#setup-virtualenv)
@@ -34,15 +34,15 @@ Inside the repository you can find Jupyter notebooks describing the techniques u
 
 The repository is broken down into subsections:
 
-### [Sprint 1: Data Gathering and Analysis](https://github.com/siegn/CSDA-1050F18S1/tree/master/nsiegel/sprint_1) 
+### [1: Data Gathering and Analysis](https://github.com/siegn/LCBOWhiskySimilarity/tree/master/1%20-%20Data%20Gathering%20and%20Analysis) 
 
 This section contains information on where and how the data was gathered as well as some initial data analysis.
 
-### [Sprint 2: Modelling](https://github.com/siegn/CSDA-1050F18S1/tree/master/nsiegel/sprint_2)
+### [Sprint 2: Modelling](https://github.com/siegn/LCBOWhiskySimilarity/tree/master/2%20-%20Modelling)
 
 Sprint 2 contains the modelling, in which the datasets were matched up, then a Word2Vec model was trained and a similarity analysis completed using Word Mover Distance.
 
-### [Sprint 3: App](https://github.com/siegn/CSDA-1050F18S1/tree/master/nsiegel/sprint_3)
+### [Sprint 3: App](https://github.com/siegn/LCBOWhiskySimilarity/tree/master/3%20-%20App)
 
 Sprint 3 contains a notebook used to prep data for the app, as well as pregenerate wordclouds for each whisky. Included in this folder is the source code for the Dash app itself.
 
@@ -52,8 +52,8 @@ This was developed on a Linux system but should work on Windows as well as long 
 
 ### Clone this Repository
 ```bash
-git clone https://github.com/siegn/CSDA-1050F18S1.git
-cd CSDA-1050F18S1
+git clone https://github.com/siegn/LCBOWhiskySimilarity.git
+cd LCBOWhiskySimilarity
 ```
 
 ### Setup Virtualenv
