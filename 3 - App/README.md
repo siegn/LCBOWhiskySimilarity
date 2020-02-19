@@ -23,7 +23,7 @@ If you have not reviewed Sections 1, and 2, you can do so here:
 * [Sprint 1: Data Gathering and Analysis](https://github.com/siegn/LCBOWhiskySimilarity/tree/master/1%20-%20Data%20Gathering%20and%20Analysis) 
 * [Sprint 2: Modelling](https://github.com/siegn/LCBOWhiskySimilarity/tree/master/2%20-%20Modelling)
 
-*Warning, spoilers for Sprint 1 and 2 ahead!*
+*Warning, spoilers for Sections 1 and 2 ahead!*
 
 When we left our protagonist last sprint, he had:
 
