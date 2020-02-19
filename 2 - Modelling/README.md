@@ -1,6 +1,6 @@
-![Whisky Barrels](https://raw.githubusercontent.com/siegn/CSDA-1050F18S1/master/nsiegel/sprint_1/images/woodford_small.png)
+![Whisky Barrels](https://raw.githubusercontent.com/siegn/LCBOWhiskySimilarity/master/1%20-%20Data%20Gathering%20and%20Analysis/images/woodford_small.png)
 # LCBO Whisky Similarity Analysis
-**Sprint Two: Modelling**
+**Modelling**
 *By Nelson Siegel*
 
 * [Last Time On LCBO Whisky Similarity Analysis](#last-time-on-lcbo-whisky-similarity-analysis)
@@ -11,7 +11,7 @@
 
 ## Last Time On LCBO Whisky Similarity Analysis
 
-If you have not reviewed Sprint 1, click [here](https://github.com/siegn/CSDA-1050F18S1/tree/master/nsiegel/sprint_1) now! Warning, spoilers for Sprint 1 ahead!
+If you have not reviewed Sprint 1, click [here](https://github.com/siegn/LCBOWhiskySimilarity/tree/master/1%20-%20Data%20Gathering%20and%20Analysis) now! Warning, spoilers for Section 1 ahead!
 
 When we left our protagonist last sprint, he had:
 
