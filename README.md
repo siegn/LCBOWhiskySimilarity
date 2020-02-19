@@ -40,11 +40,11 @@ This section contains information on where and how the data was gathered as well
 
 ### [2: Modelling](https://github.com/siegn/LCBOWhiskySimilarity/tree/master/2%20-%20Modelling)
 
-Sprint 2 contains the modelling, in which the datasets were matched up, then a Word2Vec model was trained and a similarity analysis completed using Word Mover Distance.
+Section 2 contains the modelling, in which the datasets were matched up, then a Word2Vec model was trained and a similarity analysis completed using Word Mover Distance.
 
 ### [3: App](https://github.com/siegn/LCBOWhiskySimilarity/tree/master/3%20-%20App)
 
-Sprint 3 contains a notebook used to prep data for the app, as well as pregenerate wordclouds for each whisky. Included in this folder is the source code for the Dash app itself.
+Section 3 contains a notebook used to prep data for the app, as well as pregenerate wordclouds for each whisky. Included in this folder is the source code for the Dash app itself.
 
 ## Software Requirements
 
