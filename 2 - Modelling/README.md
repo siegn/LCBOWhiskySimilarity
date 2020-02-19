@@ -11,7 +11,7 @@
 
 ## Last Time On LCBO Whisky Similarity Analysis
 
-If you have not reviewed Sprint 1, click [here](https://github.com/siegn/LCBOWhiskySimilarity/tree/master/1%20-%20Data%20Gathering%20and%20Analysis) now! Warning, spoilers for Section 1 ahead!
+If you have not reviewed Section 1, click [here](https://github.com/siegn/LCBOWhiskySimilarity/tree/master/1%20-%20Data%20Gathering%20and%20Analysis) now! Warning, spoilers for Section 1 ahead!
 
 When we left our protagonist last sprint, he had:
 
