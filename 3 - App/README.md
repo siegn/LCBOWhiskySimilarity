@@ -1,9 +1,9 @@
-![Whisky Barrels](https://raw.githubusercontent.com/siegn/CSDA-1050F18S1/master/nsiegel/sprint_1/images/woodford_small.png)
+![Whisky Barrels](https://raw.githubusercontent.com/siegn/LCBOWhiskySimilarity/master/1%20-%20Data%20Gathering%20and%20Analysis/images/woodford_small.png)
 # LCBO Whisky Similarity Analysis
-**Sprint Three: App**  
+**App**  
 *By Nelson Siegel*
   * [Last Time On LCBO Whisky Similarity Analysis](#last-time-on-lcbo-whisky-similarity-analysis)
-  * [Goal of Sprint](#goal-of-sprint)
+  * [Goal of Section](#goal-of-sprint)
   * [Notebook Description](#notebook-description)
     + [10_prepare_app_data.ipynb](#10_prepare_app_dataipynb)
       - [WordCloud Images](#wordcloud-images)
@@ -19,9 +19,9 @@
   * [Conclusion](#conclusion)
 ## Last Time On LCBO Whisky Similarity Analysis
 
-If you have not reviewed Sprint 1, and 2, you can do so here:
-* [Sprint 1: Data Gathering and Analysis](https://github.com/siegn/CSDA-1050F18S1/tree/master/nsiegel/sprint_1) 
-* [Sprint 2: Modelling](https://github.com/siegn/CSDA-1050F18S1/tree/master/nsiegel/sprint_2)
+If you have not reviewed Sections 1, and 2, you can do so here:
+* [Sprint 1: Data Gathering and Analysis](https://github.com/siegn/LCBOWhiskySimilarity/tree/master/1%20-%20Data%20Gathering%20and%20Analysis) 
+* [Sprint 2: Modelling](https://github.com/siegn/LCBOWhiskySimilarity/tree/master/2%20-%20Modelling)
 
 *Warning, spoilers for Sprint 1 and 2 ahead!*
 
@@ -37,8 +37,8 @@ When we left our protagonist last sprint, he had:
 8. Calculated similarities between whiskies using Word Mover Distance and the trained Word2Vec model.
 9. Evaluated similarity results.
 
-## Goal of Sprint
-The goal of this sprint was to develop a more effective way of interacting with the data that can be exposed to users. To do this I developed a Dash App. The first step was to prep that data for the app using python Notebooks.
+## Goal of Section
+The goal of this section was to develop a more effective way of interacting with the data that can be exposed to users. To do this I developed a Dash App. The first step was to prep that data for the app using python Notebooks.
 
 ## Notebook Description
 
@@ -64,7 +64,7 @@ This data is saved into the dash_app/data folder as well.
 ## Dash App
 
 ### App Development
-Dash apps are written in python. The code for my app is available [here](https://github.com/siegn/CSDA-1050F18S1/blob/master/nsiegel/sprint_3/dash_app/app.py)
+Dash apps are written in python. The code for my app is available [here](https://github.com/siegn/LCBOWhiskySimilarity/tree/master/3%20-%20App/dash_app)
 
 Some things that made the app development a lot easier are:
 * [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/) : These make layout way easier and allow it to adapt to different screen dimensions as well.
